@@ -1,0 +1,5 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"D:/Programming/csharp/Test/PongTestMono/Content/ball.png","D:/Programming/csharp/Test/PongTestMono/Content/bin/DesktopGL/ball.xnb","TextureProcessor","Texture2DContent",8368,16469,0,088591
+"D:/Programming/csharp/Test/PongTestMono/Content/File.spritefont","D:/Programming/csharp/Test/PongTestMono/Content/bin/DesktopGL/File.xnb","FontDescriptionProcessor","SpriteFontContent",2068,21538,0,067905
+"D:/Programming/csharp/Test/PongTestMono/Content/SmileyWalk.png","D:/Programming/csharp/Test/PongTestMono/Content/bin/DesktopGL/SmileyWalk.xnb","TextureProcessor","Texture2DContent",40026,262229,0,0141845
+"D:/Programming/csharp/Test/PongTestMono/Content/Tile.png","D:/Programming/csharp/Test/PongTestMono/Content/bin/DesktopGL/Tile.xnb","TextureProcessor","Texture2DContent",622,16469,0,0124174
